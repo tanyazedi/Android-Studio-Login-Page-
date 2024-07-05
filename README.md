@@ -17,8 +17,11 @@ An Android application that provides a login page with a modern and clean UI. Th
 ## Screenshots
 
 ### Login Screen
-![Login Page]("C:\Users\sunyz\Pictures\Screenshots\login_page.png"
-"C:\Users\sunyz\Pictures\Screenshots\popup.png")
+![login_page](https://github.com/tanyazedi/Android-Studio-Login-Page-/assets/134306392/65c4e0f7-e53a-4d98-929e-e8216c5867ad)
+### Popup
+![popup](https://github.com/tanyazedi/Android-Studio-Login-Page-/assets/134306392/4a9ed335-9b68-4095-abeb-fca17d6e6937)
+
+
 
 
 ## Technologies Used
