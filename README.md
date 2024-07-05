@@ -17,7 +17,7 @@ An Android application that provides a login page with a modern and clean UI. Th
 ## Screenshots
 
 ### Login Screen
-![Login Screen]("C:\Users\sunyz\Pictures\Screenshots\login_page.png"
+![Login Page]("C:\Users\sunyz\Pictures\Screenshots\login_page.png"
 "C:\Users\sunyz\Pictures\Screenshots\popup.png")
 
 
